@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "question": "Which of these is the strongest password?",
+    "options": ["password123", "Welcome2024", "Tr0ub4dor&3", "Q7!mZ@91#Lp2"],
+    "answer_index": 3,
+    "explanation": "Long, random, and mixed-character passwords are strongest."
+  },
+  {
+    "id": 2,
+    "question": "What does phishing usually try to do?",
+    "options": ["Speed up your computer", "Trick users into revealing sensitive information", "Encrypt files for backup", "Improve Wi-Fi security"],
+    "answer_index": 1,
+    "explanation": "Phishing attacks impersonate trusted sources to steal credentials or data."
+  },
+  {
+    "id": 3,
+    "question": "Which practice best helps prevent malware infections?",
+    "options": ["Opening all email attachments quickly", "Disabling software updates", "Installing updates and avoiding unknown downloads", "Using the same USB everywhere"],
+    "answer_index": 2,
+    "explanation": "Patching and cautious downloading reduce malware risk."
+  },
+  {
+    "id": 4,
+    "question": "What is two-factor authentication (2FA)?",
+    "options": ["Logging in from two devices", "Using two passwords", "Verifying identity using two different factors", "Sharing an account with two people"],
+    "answer_index": 2,
+    "explanation": "2FA combines something you know with something you have or are."
+  },
+  {
+    "id": 5,
+    "question": "Which is the safest response to an unexpected login alert?",
+    "options": ["Ignore it", "Reply to the email with your password", "Verify via the official website or app", "Forward it to friends"],
+    "answer_index": 2,
+    "explanation": "Always verify alerts through trusted official channels."
+  },
+  {
+    "id": 6,
+    "question": "What is ransomware?",
+    "options": ["A tool that speeds up browsing", "Malware that locks or encrypts data for payment", "A password manager", "A type of firewall"],
+    "answer_index": 1,
+    "explanation": "Ransomware encrypts or blocks access to systems or files."
+  },
+  {
+    "id": 7,
+    "question": "Why should public Wi-Fi be used carefully?",
+    "options": ["It is always illegal", "It may expose traffic to attackers if unsecured", "It drains battery instantly", "It deletes browsing history"],
+    "answer_index": 1,
+    "explanation": "Unsecured public networks can be monitored or spoofed."
+  },
+  {
+    "id": 8,
+    "question": "Which file type should be treated with extra caution from unknown senders?",
+    "options": [".jpg", ".txt", ".exe", ".png"],
+    "answer_index": 2,
+    "explanation": "Executable files can directly run malicious code."
+  },
+  {
+    "id": 9,
+    "question": "What is a VPN primarily used for?",
+    "options": ["Speeding up internet connection", "Encrypting internet traffic and hiding IP address", "Blocking ads", "Downloading files faster"],
+    "answer_index": 1,
+    "explanation": "VPNs create secure tunnels for data transmission and mask your IP."
+  },
+  {
+    "id": 10,
+    "question": "Which of these is an example of social engineering?",
+    "options": ["Installing antivirus software", "Tricking someone into revealing their password", "Updating operating system", "Using strong encryption"],
+    "answer_index": 1,
+    "explanation": "Social engineering manipulates people to divulge confidential information."
+  },
+  {
+    "id": 11,
+    "question": "What does HTTPS stand for?",
+    "options": ["HyperText Transfer Protocol Secure", "High Transfer Protocol Speed", "HyperText Transfer Password Secure", "Home Transfer Protocol Secure"],
+    "answer_index": 0,
+    "explanation": "HTTPS encrypts data between browser and server for secure communication."
+  },
+  {
+    "id": 12,
+    "question": "Which practice helps protect against keyloggers?",
+    "options": ["Using public Wi-Fi", "Typing passwords in plain text", "Using virtual keyboards or password managers", "Sharing passwords with friends"],
+    "answer_index": 2,
+    "explanation": "Virtual keyboards prevent keyloggers from capturing keystrokes."
+  },
+  {
+    "id": 13,
+    "question": "What is a firewall?",
+    "options": ["A device that blocks unauthorized access", "A tool for speeding up downloads", "Software for creating backups", "A type of antivirus"],
+    "answer_index": 0,
+    "explanation": "Firewalls monitor and control incoming/outgoing network traffic."
+  },
+  {
+    "id": 14,
+    "question": "Why should you avoid using the same password for multiple accounts?",
+    "options": ["It makes logging in faster", "If one account is compromised, others are at risk", "Passwords expire quicker", "It reduces security features"],
+    "answer_index": 1,
+    "explanation": "Unique passwords prevent a breach in one account from affecting others."
+  },
+  {
+    "id": 15,
+    "question": "What is encryption?",
+    "options": ["Converting data into a readable format", "Converting data into a coded format to prevent unauthorized access", "Deleting data permanently", "Backing up data"],
+    "answer_index": 1,
+    "explanation": "Encryption scrambles data so only authorized parties can read it."
+  },
+  {
+    "id": 16,
+    "question": "Which is a sign of a potential phishing email?",
+    "options": ["It comes from a known contact", "Urgent requests for personal information", "Professional formatting", "No attachments"],
+    "answer_index": 1,
+    "explanation": "Phishing emails often create urgency to trick users into acting quickly."
+  },
+  {
+    "id": 17,
+    "question": "What does 'patch management' refer to?",
+    "options": ["Managing software licenses", "Regularly applying security updates to software", "Deleting old files", "Monitoring network speed"],
+    "answer_index": 1,
+    "explanation": "Patching fixes vulnerabilities in software to prevent exploits."
+  },
+  {
+    "id": 18,
+    "question": "What is a zero-day vulnerability?",
+    "options": ["A vulnerability known for years", "A newly discovered vulnerability with no patch yet", "A vulnerability in old software", "A fake vulnerability"],
+    "answer_index": 1,
+    "explanation": "Zero-day exploits attack vulnerabilities before developers can fix them."
+  },
+  {
+    "id": 19,
+    "question": "Why is it important to log out of accounts on public computers?",
+    "options": ["To save battery", "To prevent others from accessing your accounts", "To speed up the computer", "To update software"],
+    "answer_index": 1,
+    "explanation": "Logging out ensures no one else can use your session."
+  },
+  {
+    "id": 20,
+    "question": "What is biometric authentication?",
+    "options": ["Using passwords only", "Using physical characteristics like fingerprints for access", "Sharing accounts", "Using email verification"],
+    "answer_index": 1,
+    "explanation": "Biometrics use unique biological traits for secure authentication."
+  },
+  {
+    "id": 21,
+    "question": "Which of these should you do if you suspect your device is infected with malware?",
+    "options": ["Continue using it normally", "Disconnect from the internet and run a scan", "Share files with others", "Ignore it"],
+    "answer_index": 1,
+    "explanation": "Isolating the device and scanning helps contain and remove malware."
+  },
+  {
+    "id": 22,
+    "question": "What is the purpose of a security audit?",
+    "options": ["To delete old files", "To evaluate and improve security measures", "To speed up the network", "To install new software"],
+    "answer_index": 1,
+    "explanation": "Audits identify weaknesses and ensure compliance with security standards."
+  },
+  {
+    "id": 23,
+    "question": "Why should you enable automatic updates?",
+    "options": ["To use more data", "To receive the latest security patches", "To slow down the device", "To change settings randomly"],
+    "answer_index": 1,
+    "explanation": "Updates fix security flaws and improve protection against threats."
+  }
+]
