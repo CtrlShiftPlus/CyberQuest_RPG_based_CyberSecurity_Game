@@ -76,13 +76,37 @@ CyberQuest/
 
 
 
+## 🎮 Gameplay Mechanics
 
-##  Gameplay Mechanics
+- **Health & Combat:**  
+  Players and enemies have health bars. Answering questions correctly deals damage; wrong answers or being hit by enemies decreases health.
 
-Health & Combat: Player and enemies have health bars. Answering questions correctly deals damage; wrong answers or being hit by enemies decreases health.
+- **Score System:**  
+  Accumulate scores to unlock new maps and rooms. Only after achieving enough points can players progress to the next level.
 
-Score System: Accumulate scores to unlock new maps and rooms. Only after achieving enough points can players progress to the next level.
+- **Room Challenges:**  
+  Each room contains a terminal or learning module. Completing challenges earns points and teaches practical cybersecurity skills.
 
-Room Challenges: Each room contains a terminal or learning module. Completing challenges earns points and teaches practical cybersecurity skills.
+- **Level Progression:**  
+  Scores from previous levels carry over to the next, reinforcing cumulative learning.
 
-Level Progression: Scores from previous levels carry over to the next, reinforcing cumulative learning.
+---
+
+## 🧩 Maps & Zones
+
+Each map in `maps/` has multiple interactive zones, such as:
+
+- **Terminals for practice**  
+- **Puzzle rooms with questions**  
+- **Enemy spawn zones with real-time combat**
+
+Maps are designed for exploration, making learning **contextual and memorable**.
+
+---
+
+## 📚 Cybersecurity Topics Covered
+
+- **Ethical Hacking & Reconnaissance**  
+- **Linux Command Line Fundamentals**  
+- **Network Scanning & Exploitation**  
+- **Web Application Security Basics**
